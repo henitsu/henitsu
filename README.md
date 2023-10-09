@@ -14,7 +14,7 @@
 <h3 align="center">A student in Computer Science</h3>
 
 * :earth_americas: Based in Toulouse
-* :email: You can contact me at [hts.mirindra@gmail.com](mailto:hts.mirindra@gmail.com)
+* :email: You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com)
 * :notebook: Student of [Bachelor in Computer Science](https://iut.univ-tlse3.fr/bachelor-specialite-informatique)
 * :speech_balloon: :fr: & :gb:
 * :art::musical_score: Into art and music
