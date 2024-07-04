@@ -13,22 +13,22 @@
 <h1 align="center">Hi 👋, I'm Mirindra Randrianarison :diamond_shape_with_a_dot_inside:</h1>
 <h3 align="center">A student in Computer Science</h3>
 
-* :earth_americas: Based in Toulouse
-* :email: You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com) and [LinkedIn](www.linkedin.com/in/mirindra-randrianarison-ratsiandavana)
-* :notebook: Student of [Bachelor in Computer Science](https://iut.univ-tlse3.fr/bachelor-specialite-informatique)
-* :speech_balloon: :fr: & :gb:
-* :art::musical_score: Into art and music
+* 🌍 Based in Toulouse
+* 📧 You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com) and [LinkedIn](www.linkedin.com/in/mirindra-randrianarison-ratsiandavana)
+* 📓 Student of [Bachelor in Computer Science](https://iut.univ-tlse3.fr/bachelor-specialite-informatique)
+* 💬 🇫🇷 & 🇬🇧
+* 🎨🎼 Into art and music
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirindra-randrianarison-ratsiandavana) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23057592) 
 
 
-# 🖥 Tech Stack  
+# 🖥️ Tech Stack  
 <table><tr><td valign="top" width="33%">
 
 
 
-### ⌨ Programming languages  
+### ⌨️ Programming languages  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
@@ -169,7 +169,7 @@
 <br/>  
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=henitsu&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henitsu&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henitsu&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
