@@ -102,8 +102,8 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>   
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" height="50" /></a>
-<a href="https://www.oracle.com/fr/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" height="50"/> </a>
-<a href="https://www.trychroma.com/" target="_blank"><img src="https://www.trychroma.com/chroma-logo.png" alt="ChromaDB" height="50"/></a>
+<a href="https://www.oracle.com/fr/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" height="50"/> </a>
+<a href="https://www.trychroma.com/" target="_blank"><img style="margin: 10px" src="https://www.trychroma.com/chroma-logo.png" alt="ChromaDB" height="50"/></a>
 </div> 
 
 </td></tr></table>  
@@ -130,7 +130,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="Bash" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="50"/></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="50"/></a>
           
 </div>
 
@@ -158,8 +158,8 @@
           
 ### 📋 Project management
 <div align="center">
-  <a href="https://www.notion.so/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" height="50" /></a>
-  <a href="https://trello.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" height="50" /></a>
+  <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" height="50" /></a>
+  <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" height="50" /></a>
 </div>
 </td><td valign="top" width="50%">
 
@@ -182,9 +182,9 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=henitsu&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=henitsu&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henitsu&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![henitsu's Stats](https://github-readme-stats.vercel.app/api?username=henitsu&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![henitsu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henitsu&theme=monokai&hide_border=true)
+![henitsu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henitsu&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=henitsu&icon=0&color=0)](https://visitcount.itsvg.in)
