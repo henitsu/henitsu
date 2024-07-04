@@ -14,7 +14,7 @@
 <h3 align="center">A student in Computer Science</h3>
 
 * 🌍 Based in Toulouse
-* 📧 You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com) and [LinkedIn](https://linkedin.com/in/mirindra-randrianarison-ratsiandavana)
+* 📧 You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com)
 * 📓 Student of [Bachelor in Computer Science](https://iut.univ-tlse3.fr/bachelor-specialite-informatique)
 * 💬 🇫🇷 & 🇬🇧
 * 🎨🎼 Into art and music
