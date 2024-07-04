@@ -182,9 +182,21 @@
 
 
 # 📊 GitHub Stats
-![henitsu's Stats](https://github-readme-stats.vercel.app/api?username=henitsu&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-![henitsu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=henitsu&theme=monokai&hide_border=true)
+
+![henitsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henitsu&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![henitsu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henitsu&theme=monokai&hide_border=true)
+
+---
+
+## 🌟 Top Languages
+
 ![henitsu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henitsu&theme=monokai&show_icons=true&hide_border=true&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=henitsu&icon=0&color=0)](https://visitcount.itsvg.in)
