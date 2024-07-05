@@ -139,7 +139,8 @@
 
 
 ### 📊 Machine Learning  
-<div align="center">  
+<div align="center">
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="50" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="50" /></a>  
@@ -171,6 +172,7 @@
 <a href="https://www.spyder-ide.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original.svg" alt="Spyder" height="50" /></a>
 <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="50" /></a>
 <a href="https://www.anaconda.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" /></a>
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50" /></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" height="50" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="50" /></a>
 <a href="https://www.devexpress.com/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/D/devexpress-logo-F0F0CD7FCF-seeklogo.com.png" alt="DevExpress" height="50" /></a>
