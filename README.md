@@ -78,7 +78,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" height="50" /></a>
-<a href="https://glitch.com/" target="_blank"><img style="margin: 10px" src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F609%2F21477ab0-e36f-4e4a-a02a-7074a782d4f2.png" alt="XAMPP" height="50" /></a>
+<a href="https://glitch.com/" target="_blank"><img style="margin: 10px" src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F609%2F21477ab0-e36f-4e4a-a02a-7074a782d4f2.png" alt="Glitch" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -91,7 +91,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" alt="Apache" height="50" /></a>
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
-<a href="https://glitch.com/" target="_blank"><img style="margin: 10px" src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F609%2F21477ab0-e36f-4e4a-a02a-7074a782d4f2.png" alt="XAMPP" height="50" /></a>
+<a href="https://glitch.com/" target="_blank"><img style="margin: 10px" src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F609%2F21477ab0-e36f-4e4a-a02a-7074a782d4f2.png" alt="Glitch" height="50" /></a>
 </td><td valign="top" width="33%">
 
 
@@ -114,7 +114,7 @@
 
 ### 🧰 Frameworks
 <div align="center">
-<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" height="50" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="50" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
