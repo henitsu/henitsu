@@ -15,7 +15,7 @@
 
 * 🌍 Based in Toulouse
 * 📧 You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com)
-* 📓 Student of [Engineer's degree of Computer Science](https://ipst.cnam.fr/medias/fichier/plaquette-informatique-mai-2024_1720763639433-pdf?ID_FICHE=1347125&INLINE=FALSE)
+* 📓 Student of [Engineer's degree of Computer Science](https://ipst.cnam.fr/medias/fichier/plaquette-informatique-mai-2024_1720763639433-pdf?ID_FICHE=1347125&INLINE=FALSE) at [IPST-CNAM](https://ipst.cnam.fr/)
 * 💬 🇫🇷 & 🇬🇧
 * 🎨🎼 Into art and music
 
