@@ -15,7 +15,7 @@
 
 * 🌍 Based in Toulouse
 * 📧 You can contact me at [mirindra.randrianarison@gmail.com](mailto:mirindra.randrianarison@gmail.com)
-* 📓 Student of [Bachelor in Computer Science](https://iut.univ-tlse3.fr/bachelor-specialite-informatique)
+* 📓 Student of [Engineer's degree of Computer Science](https://ipst.cnam.fr/medias/fichier/plaquette-informatique-mai-2024_1720763639433-pdf?ID_FICHE=1347125&INLINE=FALSE)
 * 💬 🇫🇷 & 🇬🇧
 * 🎨🎼 Into art and music
 
